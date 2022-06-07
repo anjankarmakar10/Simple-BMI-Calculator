@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="normal_range">(Normal range is 18.5 - 24.9)</string>
+    <string name="weight">Weight</string>
+    <string name="_0_0">0.0</string>
+    <string name="kg">KG</string>
+    <string name="height">Height</string>
+    <string name="_0">0.0</string>
+    <string name="cm">INCH</string>
+    <string name="calculate">Calculate</string>
+</resources>
